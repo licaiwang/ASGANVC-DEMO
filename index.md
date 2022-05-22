@@ -3,13 +3,6 @@ One-shot voice conversion has been widely studied in recent years, and a bunch o
 
 ### DEMO ( Seen to Seen )
 
-| **Source** | **Target** | **Ours** | **AutoVC** | **AgainVC** | **VQVC+**|
-| :--- | :--- | :--- | :--- | :--- |:--- |
-| <audio src="all/all/seen/p280_p306_0/source.wav" controls preload></audio> | <audio src="all/all/seen/p280_p306_0/target.wav" controls preload></audio> | <audio src="all/all/seen/p280_p306_0/conversion.wav" controls preload></audio> |<audio src="all/all/seen/p280_p306_0/adain/converted.wav" controls preload></audio> |<audio src="all/all/seen/p280_p306_0/autovc/source.wav" controls preload></audio> |--- |
-| --- | --- | --- | --- | --- |--- |
-| <audio src="all/all/seen/p317_p318_0/source.wav" controls preload></audio> | <audio src="all/all/seen/p317_p318_0/target.wav" controls preload></audio> | <audio src="all/all/seen/p317_p318_0/conversion.wav" controls preload></audio> |<audio src="all/all/seen/p317_p318_0/adain/converted.wav" controls preload></audio> |<audio src="all/all/seen/p317_p318_0/autovc/source.wav" controls preload></audio> |--- |
-| --- | --- | --- | --- | --- |--- |
-| <audio src="all/all/seen/p276_p243_0/source.wav" controls preload></audio> | <audio src="all/all/seen/p276_p243_0/target.wav" controls preload></audio> | <audio src="all/all/seen/p276_p243_0/conversion.wav" controls preload></audio> |<audio src="all/all/seen/p276_p243_0/adain/converted.wav" controls preload></audio> |<audio src="all/all/seen/p276_p243_0/autovc/source.wav" controls preload></audio> |--- |
-| --- | --- | --- | --- | --- |--- |
-| <audio src="all/all/seen/p275_p263_0/source.wav" controls preload></audio> | <audio src="all/all/seen/p275_p263_0/target.wav" controls preload></audio> | <audio src="all/all/seen/p275_p263_0/conversion.wav" controls preload></audio> |<audio src="all/all/seen/p275_p263_0/adain/converted.wav" controls preload></audio> |<audio src="all/all/seen/p275_p263_0/autovc/source.wav" controls preload></audio> |--- |
-| --- | --- | --- | --- | --- |--- |
+| **Source** | **Target** | **Conversion**|
+| :--- | :--- | :--- |
+| <audio src="all/all/seen/p280_p306_0/source.wav" controls preload></audio> | <audio src="all/all/seen/p280_p306_0/target.wav" controls preload></audio> | <audio src="all/all/seen/p280_p306_0/conversion.wav" controls preload></audio> |<audio src="all/all/seen/p280_p306_0/adain/converted.wav" controls preload></audio> <audio src="all/all/seen/p280_p306_0/autovc/source.wav" controls preload></audio> |
