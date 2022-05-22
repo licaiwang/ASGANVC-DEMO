@@ -4,12 +4,5 @@ One-shot voice conversion has been widely studied in recent years, and a bunch o
 ### DEMO ( Seen to Seen )
 
 | **Source** | **Target** | **Conversion**|
-| :--- | :--- | :--- |
-|
-P280
-<audio src="all/all/seen/p280_p306_0/source.wav" controls preload></audio>|
-P306
-<audio src="all/all/seen/p280_p306_0/target.wav" controls preload></audio> |
-<audio src="all/all/seen/p280_p306_0/conversion.wav" controls preload></audio>
-<audio src="all/all/seen/p280_p306_0/adain/converted.wav" controls preload></audio>
-<audio src="all/all/seen/p280_p306_0/autovc/source.wav" controls preload></audio> |
+|       :--- |       :--- |          :--- |
+| P280<br><audio src="all/all/seen/p280_p306_0/source.wav" controls preload></audio>| P306<br><audio src="all/all/seen/p280_p306_0/target.wav" controls preload></audio> |<audio src="all/all/seen/p280_p306_0/conversion.wav" controls preload><br></audio><audio src="all/all/seen/p280_p306_0/adain/converted.wav" controls preload></audio><br><audio src="all/all/seen/p280_p306_0/autovc/source.wav" controls preload></audio><br><audio src="all/all/seen/p280_p306_0/autovc/source.wav" controls preload></audio>|
