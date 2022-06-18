@@ -17,6 +17,7 @@ One-shot voice conversion has been widely studied in recent years, and a bunch o
 |P239(F) ➞ P246(M)|<audio src="wav/source/p239.wav" controls preload></audio>|<audio src="wav/target/p246.wav" controls preload></audio>|<audio src="wav/asganvc/239_246.wav" controls preload></audio>|<audio src="wav/autovc/239_246.wav" controls preload></audio>|<audio src="wav/vqvc+/239_246.wav" controls preload></audio>|<audio src="wav/againvc/239_246.wav" controls preload></audio>|
 
 ### DEMO (Random convert 4-pairs of voice from VCTK testing set)
+
 |**Speaker ➞ Speaker**| **Source** | **Target** | **Proposed**|**AutoVC**|**VQVC+**|**AGAIN-VC**|
 |:---|       :--- |       :--- |          :--- |       :--- |     :--- |    :--- |       
 |P313(F) ➞ P312(M)|<audio src="wav/source/p313.wav" controls preload></audio>|<audio src="wav/target/p312.wav" controls preload></audio>|<audio src="wav/asganvc/313_312.wav" controls preload></audio>|<audio src="wav/autovc/313_312.wav" controls preload></audio>|<audio src="wav/vqvc+/313_312.wav" controls preload></audio>|<audio src="wav/againvc/313_312.wav" controls preload></audio>|
